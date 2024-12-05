@@ -1,0 +1,11 @@
+bicycle
+boat
+bus
+car
+cat
+chair
+dog
+motorbike
+person
+
+
